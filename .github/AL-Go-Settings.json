@@ -2,6 +2,13 @@
   "type": "PTE",
   "templateUrl": "https://github.com/freddydk/AL-Go@partial",
   "templateSha": "2f5970a486948e9b59d86691fa298cd35acede84",
-  "runs-on": "windows-latest",
-  "shell": "powershell"
+  "useCompilerFolder": true,
+  "doNotPublishApps": true,
+  "runs-on": "ubuntu-latest",
+  "shell": "pwsh",
+  "gitHubRunner": "ubuntu-latest",
+  "githubRunnerShell": "pwsh",
+  "generateDependencyArtifact": true,
+  "RepoVersion": "1.0",
+  "artifact": "//24.0//first"
 }
