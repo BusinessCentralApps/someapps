@@ -38,7 +38,7 @@ env:
 jobs:
   IncrementVersionNumber:
     needs: [ ]
-    runs-on: [ ubuntu-latest ]
+    runs-on: [ windows-latest ]
     steps:
       - name: Dump Workflow Information
         uses: freddydk/AL-Go/Actions/DumpWorkflowInfo@partial
