@@ -3,5 +3,5 @@
   "templateUrl": "https://github.com/freddydk/AL-Go@partial",
   "templateSha": "2f5970a486948e9b59d86691fa298cd35acede84",
   "runs-on": "windows-latest",
-  "shell": "pwsh"
+  "shell": "powershell"
 }
