@@ -1,7 +1,7 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/freddydk/AL-Go@partial",
-  "templateSha": "2f5970a486948e9b59d86691fa298cd35acede84",
+  "templateSha": "702e81805afdfae12ab58e30ff2ef30091e14163",
   "useCompilerFolder": true,
   "doNotPublishApps": true,
   "runs-on": "ubuntu-latest",
