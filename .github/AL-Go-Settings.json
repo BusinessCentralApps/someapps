@@ -4,6 +4,8 @@
   "templateSha": "95f92d5907c5fb96f52814b8848e7d27ca65c290",
   "useCompilerFolder": true,
   "doNotPublishApps": true,
+  "doNotBuildTests": true,
+  "skipUpgrade": true,
   "runs-on": "ubuntu-latest",
   "shell": "pwsh",
   "gitHubRunner": "ubuntu-latest",

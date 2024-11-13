@@ -1,5 +1,4 @@
 {
   "country": "w1",
-  "appFolders": [ "Misc","W1","Licensing", "Common" ],
-  "doNotRunTests": true
+  "appFolders": [ "Misc","W1","Licensing", "Common" ]
 }
