@@ -12,5 +12,6 @@
   "githubRunnerShell": "pwsh",
   "generateDependencyArtifact": true,
   "RepoVersion": "1.0",
-  "artifact": "//24.0//first"
+  "artifact": "//24.0//first",
+  "PullRequestTrigger": "pull_request"
 }
